@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Meal Mate</string>
+    <string name="OBW1">Welcome to MealMate !</string>
+    <string name="OBW2">Eat well,</string>
+    <string name="OBW2.02">feel well,</string>
+    <string name="OBW2.03">live well.</string>
+    <string name="OBW2.1">Taste Together! </string>
+    <string name="OBW2.3">Learn Together!</string>
+    <string name="Nextbtn">Next</string>
+    <string name="SignUp_1">Sign Up</string>
+    <string name="SignIn">Sign in</string>
+    <string name="SignIn_1">Sign in to</string>
+    <string name="F_1">Enter e-mail or phone number</string>
+
+
+</resources>
